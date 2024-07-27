@@ -1,8 +1,6 @@
 # About Me I guess;
 - 👋 Hi, I’m @DoYouEvenSheesh
-- 👀 I’m interested in idk
-- 🌱 I’m currently learning Racket
-- 💞️ I’m looking to collaborate on Racket
-- 📫 How to reach me Discord: Poseidon#8837
-- 🤦‍♂️I'm Weak at: Physics
-### and I finally wanna ask you DoYouEvenSheesh?
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on anything tech related 
+### and finally I wanna ask you, DoYouEvenSheesh?
